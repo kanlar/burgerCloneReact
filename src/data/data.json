@@ -1,0 +1,86 @@
+{
+    "item" :[
+        {
+            "id" : 1,
+            "title" : "Efso Burger",
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 2,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 3,
+            "title" : "Efso Burger",
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 4,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 5,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 6,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 7,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 8,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 9,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 10,
+            "title" : "Efso Burger",
+
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 11,
+            "title" : "Efso Burger",
+            "image" :"../assets/burger.jpg",
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        },
+        {
+            "id" : 12,
+            "title" : "Efso Burger",
+            "image" :"../assets/burger.jpg",
+            "content": "150 gr kasap Burger, Patates, Turşu",
+            "price": "250 TL"
+        }
+    ]
+}
